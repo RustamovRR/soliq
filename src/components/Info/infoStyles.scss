@@ -1,0 +1,32 @@
+.info_root {
+    width: 60%;
+    margin: 5% auto;
+}
+
+.spinner {
+    margin-bottom: 20%;
+}
+
+.info_box {
+    display: flex;
+}
+
+.info {
+    margin-left: 30px;
+}
+
+img {
+    width: 40%;
+    height: 100%;
+    object-fit: contain;
+}
+
+p {
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+p span {
+    font-weight: normal;
+    margin-left: 5px;
+}
